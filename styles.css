@@ -1,0 +1,24 @@
+h2{
+    margin: 90px 400px;
+}
+.container{
+    width: 180px;
+    margin: 100px 400px;
+    border: 5px solid black;
+    padding: 50px 30px 0;
+    background-color: rgb(132, 198, 214);
+}
+#display{
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    border: 2px solid red;
+    font-size: 24px
+}
+button{
+    font-size: 24px;
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
